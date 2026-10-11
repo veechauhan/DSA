@@ -27,8 +27,10 @@ bin/
 /nbdist/
 /.nb-gradle/
 
-### VS Code ###
+### VS Code & Metals ###
 .vscode/
+.metals/
+.bloop/
 
 ### Mac OS ###
 .DS_Store
